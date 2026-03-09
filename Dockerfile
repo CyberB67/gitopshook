@@ -1,2 +1,2 @@
 FROM busybox
-CMD exho "Hello World!"
+CMD echo "Hello World!"
